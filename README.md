@@ -6,10 +6,9 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 
 ## My Projects
 
-- **[Wine Quality Classification](https://colab.research.google.com/drive/1blErnr45fYCVRcV3kHJwdSTjkvkuqlX4?usp=sharing)**: Analyzing and predicting wine quality using logistic regression and Decision Trees.
-  (2nd place on [Kaggle](https://www.kaggle.com/competitions/wine-quality-classification-challenge))
-- **[Car Model Regression](https://colab.research.google.com/drive/1oTvKoqtRR5p7RVWwe5EBzIyVQZBau0TQ?usp=sharing)**: Analyzing and predicting car price using linear regression and Decision Trees.
-- **[YouTube Analyze](https://colab.research.google.com/drive/1M42rK2o6K_wNxFxK4beHaNTZ0SNx-AOq?usp=sharing)**: Analyses 
+- **[Wine Quality Classification](https://colab.research.google.com/drive/1blErnr45fYCVRcV3kHJwdSTjkvkuqlX4?usp=sharing)**: Analyzing and predicting wine quality using logistic regression and Decision Trees. (2nd place on [Kaggle](https://www.kaggle.com/competitions/wine-quality-classification-challenge) Competition)
+- **[Car Model Regression](https://colab.research.google.com/drive/1oTvKoqtRR5p7RVWwe5EBzIyVQZBau0TQ?usp=sharing)**: Analyzing and predicting car price using linear regression and Decision Trees. (3nd place on [Kaggle](https://www.kaggle.com/competitions/car-valuation-competition) Competition)
+- **[YouTube Analyze](https://colab.research.google.com/drive/1M42rK2o6K_wNxFxK4beHaNTZ0SNx-AOq?usp=sharing)**: Analyzing and classtering feature. Using tools us Kmeans, DBSCAN, EM
 
 ## Skills
 
@@ -17,11 +16,7 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 - **Data Analysis**: Pandas, NumPy, Scikit-learn
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Linear Regression, Logistic Regression, Decision Trees
-- **Tools**: Jupyter Notebook, Git, GitHub
-
-## Achievements
-
-- **Kaggle Competitions**: Achieved TOP 5 in Kaggle competitions.
+- **Tools**: Jupyter Notebook, Git, GitHub, Tableau
 
 ## Connect with Me
 
