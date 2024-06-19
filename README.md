@@ -6,9 +6,10 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 
 ## My Projects
 
-- **[Wine Quality Classification](link-to-project)**: Analyzing wine quality using logistic regression.
-- **[Car Model Regression](link-to-project)**: Classifying car models into premium, standard, and poor classes.
-- **[YouTube Analyze](link-to-project)**: Researching the impact of social media on adolescents' mental health.
+- **[Wine Quality Classification](https://colab.research.google.com/drive/1blErnr45fYCVRcV3kHJwdSTjkvkuqlX4?usp=sharing)**: Analyzing and predicting wine quality using logistic regression and Decision Trees.
+  (2nd place on [Kaggle](https://www.kaggle.com/competitions/wine-quality-classification-challenge))
+- **[Car Model Regression](https://colab.research.google.com/drive/1oTvKoqtRR5p7RVWwe5EBzIyVQZBau0TQ?usp=sharing)**: Analyzing and predicting car price using linear regression and Decision Trees.
+- **[YouTube Analyze](https://colab.research.google.com/drive/1M42rK2o6K_wNxFxK4beHaNTZ0SNx-AOq?usp=sharing)**: Analyses 
 
 ## Skills
 
