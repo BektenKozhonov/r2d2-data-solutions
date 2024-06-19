@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Data Scientist with a passion for data analysis, machine learning, and predictive modeling. I love working on projects that involve solving real-world problems using data. I also achieved a TOP 5 rank in Kaggle competitions, showcasing my competitive edge and expertise in data science.
+I am a Data Scientist with a passion for data analysis, machine learning, and predictive modeling. I love working on projects that involve solving real-world problems using data. I also achieved a TOP 5 rank in Kaggle competitions, showcasing my competitive edge and expertise in data science. Currently, I am expanding my knowledge in Object-Oriented Programming (OOP) and Deep Learning.
 
 ## My Projects
 
@@ -24,6 +24,3 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 - [Instagram](https://www.instagram.com/bhekk.k/)
 - [Email](mailto:kozhonov1@gmail.com)
 
-## Fun Fact
-
-I am a huge fan of Marvel and Star Wars, and I love combining my data science skills with my interests in these universes!
