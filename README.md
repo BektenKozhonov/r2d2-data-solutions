@@ -12,10 +12,10 @@ I am a Data Scientist with a passion for data analysis, machine learning, and pr
 
 ## Skills
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, SQL
 - **Data Analysis**: Pandas, NumPy, Scikit-learn
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Trees
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Trees, Clustering
 - **Tools**: Jupyter Notebook, Git, GitHub, Tableau
 
 ## Connect with Me
